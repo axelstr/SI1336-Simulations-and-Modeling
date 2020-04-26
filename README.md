@@ -2,7 +2,7 @@
 
 ## The course
 
-[SI1336 Simulations and Modeling](https://www.kth.se/student/kurser/kurs/SI1336?l=en) is a course given by KTH. The course consist of six weekly projects and one final project. 
+[SI1336 Simulation and Modeling](https://www.kth.se/student/kurser/kurs/SI1336?l=en) is a course given by KTH. The course consist of six weekly projects and one final project. 
 
 ## List of projects and descriptions
 
