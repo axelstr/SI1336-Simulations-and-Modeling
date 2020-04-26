@@ -1,4 +1,4 @@
-# SI1336 Simuations and Modeling
+# SI1336 Simuation and Modeling
 
 ## The course
 
